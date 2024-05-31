@@ -1,0 +1,2 @@
+
+const doProduct =(v,y)=>{
